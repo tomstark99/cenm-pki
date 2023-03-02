@@ -1,0 +1,7 @@
+# certs
+key-stores/
+trust-stores/
+crl-files/
+
+# jar files
+*.jar
